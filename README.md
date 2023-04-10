@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 😀
 
-Meu nome é Débora Bernardi e sou estudante de desenvolvimento web na Trybe.
+Meu nome é Débora Bernardi e sou estudante de desenvolvimento web.
 
 <br>
 
